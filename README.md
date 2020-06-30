@@ -1,8 +1,10 @@
 # Matplotlib-Challenge
 
 Matplotlib Homework - The Power of Plots
+----------------------------------------
 
 Background
+----------
 What good is data without a good plot to tell the story?
 So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
 
@@ -10,6 +12,7 @@ While your data companions rushed off to jobs in finance and government, you rem
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
 Instructions
+------------
 Your tasks are to do the following:
 
 
@@ -56,6 +59,7 @@ Look across all previously generated figures and tables and write at least three
 
 
 Here are some final considerations:
+-----------------------------------
 
 
 You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, x-axis and y-axis limits, etc.
@@ -65,7 +69,8 @@ See the starter workbook for help on what modules to import and expected format 
 
 
 
-Hints and Considerations
+Hints and Considerations:
+-------------------------
 
 
 Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
@@ -81,6 +86,7 @@ While you are trying to complete this assignment, feel encouraged to constantly 
 
 
 Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks. Try answering questions like:
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 How does my DataFrame need to be structured for me to have the right x-axis and y-axis?
