@@ -26,16 +26,12 @@ Your tasks are to do the following:
 
 
 * Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows  the number of total mice for each treatment regimen throughout the course of the study.
-
-
-* NOTE: These plots should look identical.
+  * NOTE: These plots should look identical.
 
 
 
 * Generate a pie plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the distribution of female or male mice in the study.
-
-
-* NOTE: These plots should look identical.
+  * NOTE: These plots should look identical.
 
 
 
@@ -43,7 +39,7 @@ Your tasks are to do the following:
 
 
 * Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
-* Hint: All four box plots should be within the same figure. Use this Matplotlib documentation page for help with changing the style of the outliers.
+  * Hint: All four box plots should be within the same figure. Use this Matplotlib documentation page for help with changing the style of the outliers.
 
 
 * Select a mouse that was treated with Capomulin and generate a line plot of time point versus tumor volume for that mouse.
@@ -89,16 +85,16 @@ Remember, there are many ways to approach a data problem. The key is to break up
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-* How does my DataFrame need to be structured for me to have the right x-axis and y-axis?
+  * How does my DataFrame need to be structured for me to have the right x-axis and y-axis?
 
 
-* How do I build a basic scatter plot?
+  * How do I build a basic scatter plot?
 
 
-* How do I add a label to that scatter plot?
+  * How do I add a label to that scatter plot?
 
 
-* Where would the labels for that scatter plot come from?
+  * Where would the labels for that scatter plot come from?
 
 
 * Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
