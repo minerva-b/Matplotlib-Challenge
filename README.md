@@ -81,8 +81,7 @@ Hints and Considerations:
 * While you are trying to complete this assignment, feel encouraged to constantly refer to Stack Overflow and the Pandas documentation. These are needed tools in every data analyst's tool belt.
 
 
-Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks. Try answering questions like:
-------------------------------------------------------------------------------------------------------------------------------------------
+* Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks. Try answering questions like:
 
 
   * How does my DataFrame need to be structured for me to have the right x-axis and y-axis?
@@ -97,7 +96,7 @@ Remember, there are many ways to approach a data problem. The key is to break up
   * Where would the labels for that scatter plot come from?
 
 
-* Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
+Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
 
 
 * Get help when you need it! There is never any shame in asking. But, as always, ask a specific question. You'll never get a great answer to "I'm lost."
